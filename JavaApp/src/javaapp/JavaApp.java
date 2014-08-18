@@ -23,6 +23,7 @@ public class JavaApp {
         JOptionPane.showMessageDialog(null, "Tô sentindo um cheirinho estranho de Luís daqui ;x");
         JOptionPane.showMessageDialog(null, "Cara, é lindo quando saporra funciona *---*. se vc for dar um sync com o servidor, e "
                 + "ele tiver comites da outra galera, tu vai clicando em resolver e ele mesmo faz o merge changes o: ");
+        JOptionPane.showMessageDialog(null, "pudim :P ");
     }
     
 }
