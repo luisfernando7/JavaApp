@@ -6,18 +6,10 @@
 
 package javaapp;
 
-import javax.swing.JOptionPane;
-
-/**
- *
- * @author Luís Fernando. >>>>>>>>>>{abismo}>>>>>>>>>>>
- * @author Marina Silva.
- */
 public class JavaApp {
 
-    
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Sepah");
+        javax.swing.JOptionPane.showMessageDialog(null, "Sepah");
     }
     
 }
