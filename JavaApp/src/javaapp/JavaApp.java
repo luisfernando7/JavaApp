@@ -6,6 +6,8 @@
 
 package javaapp;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Luís Fernando.
@@ -14,7 +16,8 @@ public class JavaApp {
 
     
     public static void main(String[] args) {
-        // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "just a test");
+        
     }
     
 }
