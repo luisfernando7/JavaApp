@@ -16,7 +16,7 @@ public class JavaApp {
 
     
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "just a test","Apenas um test",0);
+        JOptionPane.showMessageDialog(null, "Será que funcionou??","Apenas um test",0);
         
     }
     
