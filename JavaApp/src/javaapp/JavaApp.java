@@ -11,12 +11,14 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Luís Fernando.
+ * @author Marina Silva.
  */
 public class JavaApp {
 
     
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Será que funcionou??","Apenas um test",0);
+        JOptionPane.showMessageDialog(null, "Funcionou, Fedido!  sz");
         
     }
     
