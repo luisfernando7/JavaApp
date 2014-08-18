@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Luís Fernando.
+ * @author Luís Fernando. >>>>>>>>>>{abismo}>>>>>>>>>>>
  * @author Marina Silva.
  */
 public class JavaApp {
