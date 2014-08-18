@@ -20,6 +20,7 @@ public class JavaApp {
         JOptionPane.showMessageDialog(null, "Será que funcionou??","Apenas um test",0);
         JOptionPane.showMessageDialog(null, "Funcionou, Fedido!  sz");
         JOptionPane.showMessageDialog(null, "Fedido nada. Tomo banho nos sabados u.u ");
+        JOptionPane.showMessageDialog(null, "Tô sentindo um cheirinho estranho de Luís daqui ;x");
     }
     
 }
